@@ -2,7 +2,8 @@
 
 A lightweight, privacy-focused Chrome extension for efficient tab management and navigation.
 
-![Tab Assist Screenshot](assets/screenshot.png)
+![1](https://github.com/user-attachments/assets/bd0e5f96-f7cb-4aba-ac56-ad9df2e7c773)
+
 
 ## Features
 
