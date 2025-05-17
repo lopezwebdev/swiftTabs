@@ -124,8 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: https://github.com/lopezwebdev
 - Chrome Web Store: [Tab Assist](https://chrome.google.com/webstore/detail/tab-assist/...)
 
 MIT License
