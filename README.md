@@ -24,7 +24,7 @@ A lightweight, privacy-focused Chrome extension for efficient tab management and
 ### From Source
 1. Clone this repository:
    ```bash
-https://github.com/lopezwebdev/swiftTabs.git
+   git clone https://github.com/lopezwebdev/swiftTabs.git
    ```
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode"
