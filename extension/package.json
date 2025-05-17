@@ -1,0 +1,14 @@
+{
+  "name": "swifttabs",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack --mode production",
+    "obfuscate": "javascript-obfuscator dist/bundle.js --output dist/bundle.obfuscated.js",
+    "build:secure": "npm run build && npm run obfuscate"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+} 
